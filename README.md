@@ -1,9 +1,4 @@
 # PowerPlans
-<h1 align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/jbara2002/melody12/master/logo.png" alt="Melody logo"></a>
-</h1>
-
 <h4 align="center">High Quality PowerPlans for optimize performance, latency, balance and battery economy.</h4>
 
 | List of Power Plans| Description | 
